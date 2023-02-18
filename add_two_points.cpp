@@ -1,5 +1,5 @@
 /**
-Abdullah Azzam Olcay - Gebze Technical University
+Abdullah Azzam Olcay - University of Southampton
 **/
 #include<iostream>
 #include<math.h>
